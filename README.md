@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Avishka Wijesinghe</h1>
+
 <h3 align="center">A Passionate Full-Stack Developer from Sri Lanka</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
